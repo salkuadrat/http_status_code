@@ -29,7 +29,7 @@ if (res.statusCode == StatusCode.OK) {
 
 ## Codes
 
-| Code | Constant                        | Reason Phrase                   |
+| Code | Status Code                     | Status Message                  |
 | ---- | ------------------------------- | ------------------------------- |
 | 100  | CONTINUE                        | Continue                        |
 | 101  | SWITCHING_PROTOCOLS             | Switching Protocols             |
