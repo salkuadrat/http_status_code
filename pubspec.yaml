@@ -1,20 +1,12 @@
 name: http_status_code
 description: HTTP Status Codes
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/salkuadrat/http_status_code
 homepage: https://github.com/salkuadrat/http_status_code
-author: Salman S
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=1.17.0"
 
 dependencies:
-  flutter:
-    sdk: flutter
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
-
-flutter:

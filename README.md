@@ -5,7 +5,7 @@ All status codes defined in RFC1945 (HTTP/1.0), RFC2616 (HTTP/1.1), RFC2518 (Web
 ## Installation 
 
 ```bash
-$ flutter pub add http_status_code
+$ pub add http_status_code
 ```
 
 ## Usage 
